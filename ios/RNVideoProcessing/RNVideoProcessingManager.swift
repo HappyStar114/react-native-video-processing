@@ -6,8 +6,6 @@
 //
 
 import Foundation
-import AVFoundation
-import UIKit
 
 @objc(RNVideoProcessingManager)
 class RNVideoProcessingManager: RCTViewManager {
